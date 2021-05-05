@@ -3,7 +3,7 @@
 #doc- documents
 
 
-#This is approved but rejected and need to be deleted
+#This is approved 
 
 
 
