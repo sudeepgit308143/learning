@@ -10,7 +10,7 @@
 	<packaging>war</packaging>
 
 	<name>hms-pro-v02</name>
-	<description>Novel health care project</description>
+	<description>Novel health care project version 1</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
